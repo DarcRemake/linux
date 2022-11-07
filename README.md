@@ -1,4 +1,7 @@
-How to use:
+## Notice
+This script is meat to be used on fresh installs on 22.04-20.04 Ubuntu
+
+## How to use:
 
 ```
 $ wget https://raw.githubusercontent.com/OfficialKimz/linux/main/install.sh
@@ -6,7 +9,7 @@ $ sudo chmod a+x install.sh
 $ ./install.sh
 ```
 
-What comes installed:
+## What comes installed:
  - Discord
  - MongoDB
  - MongoDB Compas
