@@ -2,7 +2,8 @@ How to use:
 
 ```$ wget https://raw.githubusercontent.com/OfficialKimz/linux/main/install.sh
 $ sudo chmod a+x install.sh
-$ ./install.sh```
+$ ./install.sh
+````
 
 What comes installed:
  - Discord
