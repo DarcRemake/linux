@@ -1,5 +1,5 @@
 ## Notice
-This script is meat to be used on fresh installs on 22.04-20.04 Ubuntu
+This script is meant to be used on fresh installs of 22.04-20.04 Ubuntu
 
 ## How to use:
 
